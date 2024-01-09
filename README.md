@@ -15,7 +15,7 @@
 ```javascript
 const Ayon_ssp = {
   pronouns: "he" | "him",
-  Iam : ["Software Developer", "Competitive Programming"],
+  Iam : ["Software Developer"],
   code: [Python, Java, C/C++, SQL],
   tools & Tech: [vscode, Android Studio, Gradle, Maven, Spring Framework, PostgreSQL, Linux, Git, Github Firesbase, SDL2, pytest],
   Experience: {
@@ -31,5 +31,5 @@ const Ayon_ssp = {
 }
 ```
 <img align='left' src="Profile/dance.gif" width="50">
-<h3>Let's connect and learn together!</h3>
+<h3>Eat Sleep Code!</h3>
 <hr>
