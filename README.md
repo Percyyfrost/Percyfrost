@@ -13,7 +13,7 @@
 ### <img src="Profile/cofi.png" width="50">  About Me
 
 ```javascript
-const Ayon_ssp = {
+const Vuyani_Nxele = {
   pronouns: "he" | "him",
   Iam : ["Software Developer"],
   code: [Python, Java, C/C++, SQL],
