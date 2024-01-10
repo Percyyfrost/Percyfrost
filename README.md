@@ -1,4 +1,4 @@
-<h2> Hey, your local Software Developer here; Vuyani <img src="Profile/run.png" width="50"></h2>
+<h2> Hey, your local Software Developer here; Vuyani <img src="Profile/punching.gif" width="50"></h2>
 
 ![Cover](Profile/coverImg.gif)
 
