@@ -1,4 +1,4 @@
-<h2> Hey, your local Software Developer here; Vuyani <img src="Profile/punching.gif" width="50"></h2>
+<h2>If you don’t take risks, you can’t create a future. <img src="Profile/punching.gif" width="50"></h2>
 
 ![Cover](Profile/coverImg.gif)
 
