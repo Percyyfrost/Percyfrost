@@ -17,15 +17,15 @@ const Vuyani_Nxele = {
   pronouns: "he" | "him",
   Iam : ["Software Developer"],
   code: [Python, Java, C/C++, SQL],
-  tools & Tech: [vscode, Android Studio, Gradle, Maven, Spring Framework, PostgreSQL, Linux, Git, Github Firesbase, SDL2, pytest],
+  tools_&_Tech: [Vscode, Android Studio, Gradle, Maven, Spring Framework, PostgreSQL, Linux, Git, Github Firesbase, SDL2, pytest],
   Experience: {
           Software_Developer: "American Tower Cooperation",
-          Software_Developer Intern: "We Think Code",
-          Data_Science Student: "Umuzi",
+          Software_Developer_Intern: "We Think Code",
+          Data_Science_Student: "Umuzi",
     },
   WorkedOn: {
-          American Tower Cooperation: "Java, Spring Framework, Android Studio, Gradle, Maven, Firebase",
-          We Think Code: "C/C++, SQL, Linux, Github, Git, SDL2",
+          American_Tower_Cooperation: "Java, Spring Framework, Android Studio, Gradle, Maven, Firebase",
+          We_Think_Code: "C/C++, SQL, Linux, Github, Git, SDL2",
           Data_Science: "Python, PostgreSQL, Pytest, TDD",
     },
 }
