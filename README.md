@@ -5,8 +5,8 @@
 <!-- <img align='right' src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="230"> -->
 <img align='right' src="Profile/python.gif" width="33">
 <img align='right' src="Profile/vs.gif" width="30">
-<img align='right' src="Profile2/react.gif" width="30">
-<img align='right' src="Profile/django.png" width="30">
+<img align='right' src="Profile/firebase.gif" width="30">
+<img align='right' src="Profile/git.gif" width="30">
 
 
 
