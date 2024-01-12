@@ -17,7 +17,7 @@ const Vuyani_Nxele = {
   pronouns: "he" | "him",
   Iam : ["Software Developer"],
   code: [Python, Java, C/C++, SQL],
-  tools_&_Tech: [Vscode, Android Studio, Gradle, Maven, Spring Framework, PostgreSQL, Linux, Git, Github Firesbase, SDL2, pytest],
+  tools_&_tech: [Vscode, Android Studio, Gradle, Maven, Spring Framework, PostgreSQL, Linux, Git, Github Firesbase, SDL2, pytest],
   Experience: {
           Software_Developer: "American Tower Cooperation",
           Software_Developer_Intern: "We Think Code",
