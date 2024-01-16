@@ -31,5 +31,5 @@ const Vuyani_Nxele = {
 }
 ```
 <img align='left' src="Profile/dance.gif" width="50">
-<img align='left' src="Profile/EatSleepCode.jpeg" width="300">
+<img align='left' src="Profile/EatSleepCode.jpeg" width="263">
 <hr>
